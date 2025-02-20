@@ -1,1 +1,0 @@
-console.log('Just smile and wave');
