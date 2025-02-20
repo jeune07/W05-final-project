@@ -1,4 +1,4 @@
-const openCageApiKey = 'e2688b68005e48bd8b06d5f9c9aef288'; // Your OpenCage API key
+const openCageApiKey = ''; // Your OpenCage API key
 const searchBtn = document.getElementById('searchBtn');
 const cityInput = document.getElementById('cityInput');
 const restaurantList = document.getElementById('restaurantList');
