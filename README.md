@@ -11,8 +11,8 @@ This final project demonstrates intermediate and advanced knowledge in JavaScrip
 ## Tech Stack  
 - JavaScript (ES6+)  
 - HTML5 & CSS3  
-- Google Maps API  
-- OpenWeather API  
+- Google Maps API
+- opencagedata 
 - Git & GitHub for version control and collaboration  
 
 ## Installation & Setup  S
